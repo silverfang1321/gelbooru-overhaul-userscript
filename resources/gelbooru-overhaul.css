@@ -2,13 +2,13 @@
 /* MAIN */
 .go-collapse-sidebar {
     position: fixed;
-    width: var(--collapsed-width, 7px);
+    width: var(--collapsed-width, 5px);
     height: 100%;
     margin: 0;
     overflow: hidden;
-    background: var(--collapsed-color, #363636);
+    background: var(--collapsed-color, red);
     transition: 142ms;
-    font-size: 2em;
+    font-size: 1em;
     z-index: 690420;
 }
 .go-collapse-sidebar:hover {
