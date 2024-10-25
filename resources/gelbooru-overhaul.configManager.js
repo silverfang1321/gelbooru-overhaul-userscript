@@ -266,7 +266,7 @@ class ConfigManager {
                         description: "Width of collapsed sidebar"
                     },
                     color: {
-                        value: "red",
+                        value: "#363636",
                         name: "Collapsed Color",
                         description: "Color of collapsed sidebar"
                     },
