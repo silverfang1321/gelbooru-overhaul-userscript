@@ -185,7 +185,7 @@ class ConfigManager {
                 name: "Dark Mode",
                 items: {
                     auto: {
-                        value: true,
+                        value: false,
                         name: "Auto Dark Mode",
                         description: "Enable dark mode based on the browser's preferred color scheme (light/dark)",
                     },
