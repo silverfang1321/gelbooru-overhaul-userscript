@@ -2,11 +2,11 @@
 /* MAIN */
 .go-collapse-sidebar {
     position: fixed;
-    width: var(--collapsed-width, 5px);
+    width: var(--collapsed-width, 7px);
     height: 100%;
     margin: 0;
     overflow: hidden;
-    background: var(--collapsed-color, red);
+    background: var(--collapsed-color, #363636);
     transition: 142ms;
     font-size: 1em;
     z-index: 690420;
