@@ -261,12 +261,12 @@ class ConfigManager {
                         description: "Hide the sidebar to the left on gallery and post pages"
                     },
                     width: {
-                        value: "5px",
+                        value: "7px",
                         name: "Collapsed Width",
                         description: "Width of collapsed sidebar"
                     },
                     color: {
-                        value: "red",
+                        value: "#363636",
                         name: "Collapsed Color",
                         description: "Color of collapsed sidebar"
                     },
